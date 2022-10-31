@@ -13,7 +13,7 @@ func main() {
         me := &Profile{
                 Name:    "Artur Shaidullin",
                 From:    "Kazan, Russia",
-                Company: "LasTrust",
+                Company: "Avito",
         }
 
         fmt.Printf(`Hi there! 👋
